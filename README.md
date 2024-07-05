@@ -6,7 +6,7 @@ This is my solution for the project that is part of the scientific-computing-wit
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
 ```
-235
+  235
 +  52
 -----
 
